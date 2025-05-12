@@ -6,7 +6,7 @@ Welcome to MeowMate! A fun and responsive landing page for a fictional cat match
 
 ## 🚀 Demo 
 
-> You can see the website live here: 👉 [Show Demo](https://meow-mate.netlify.app/])
+> You can see the website live here: 👉 [Show Demo](https://meow-mate.netlify.app/)
 
 ---
 
