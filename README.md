@@ -2,16 +2,22 @@
 
 Welcome to MeowMate! A fun and responsive landing page for a fictional cat matchmaking service. This website was built using HTML, CSS, and Bootstrap, with a focus on clean design and playful content.
 
-Live Demo: [https://meow-mate.netlify.app/]
+---
+
+## 🚀 Demo 
+
+> You can see the editor live here: 👉 [Show Demo](https://meow-mate.netlify.app/])
 
 ---
 
-## 💻 Built With
+## 🛠️ Tools Used
 
-- HTML5  
-- CSS3  
-- Bootstrap 5  
-- Visual Studio Code (Code Editor)
+| Tool           | Description           |
+|----------------|-----------------------|
+| ![HTML5 logo](https://img.icons8.com/color/24/html-5.png) **HTML** | Markup structure |
+| ![CSS3 logo](https://img.icons8.com/color/24/css3.png) **CSS**   | Styling and layout |
+| ![Bootstrap logo](https://img.icons8.com/color/24/bootstrap.png) **Bootstrap** | Responsive design framework |
+| ![VS Code logo](https://img.icons8.com/color/24/visual-studio-code-2019.png) **VS Code** | Code editor used |
 
 ---
 
@@ -28,11 +34,11 @@ Live Demo: [https://meow-mate.netlify.app/]
 
 ## 📦 Features
 
-- 🐾 Fully responsive design with Bootstrap Grid & Flexbox  
-- 🐾 Creative cat-themed content  
-- 🐾 Pricing cards with subscription plans  
-- 🐾 Testimonial and logo/media section  
-- 🐾 Clean and modern UI
+ 🐾 Fully responsive design with Bootstrap Grid & Flexbox  
+ 🐾 Creative cat-themed content  
+ 🐾 Pricing cards with subscription plans  
+ 🐾 Testimonial and logo/media section  
+ 🐾 Clean and modern UI
 
 ---
 
@@ -42,4 +48,6 @@ To run the project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Kundan696922/meow-mate.git
+   git clone https://github.com/Kundan696922/meow-mate.git](https://github.com/Kundan696922/meow-mate.git
+2. Open `index.html` in your browser.
+3. Resize your browser to see the responsive design in action.
